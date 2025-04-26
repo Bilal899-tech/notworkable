@@ -1,0 +1,1 @@
+import{j as r}from"./index-BD4AbgKB.js";import o from"./Product-CGdIDc0f.js";import t from"./Male-r27iMCH9.js";import m from"./Female-BHknf4DN.js";import s from"./Kids-G1kBH9-v.js";import"./Products-BrfgxgUO.js";const d=()=>r.jsxs("div",{children:[r.jsx(o,{}),r.jsx(t,{}),r.jsx(m,{}),r.jsx(s,{})]});export{d as default};
